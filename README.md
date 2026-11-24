@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+The ultimate Devil Hunter is back in style, in the game action fans have been waiting for.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: WINDOWS® 10 (64-BIT Required) / Rec: WINDOWS® 10 / 11 | macOS 11.0 or later |
+| **Processor** | Min: Intel® Core™ i5-4460, AMD FX™-6300, or better / Rec: Intel® Core™ i7-3770, AMD FX™-9590, or better | Intel Core i5 / Apple M1 |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA® GeForce® GTX 760 or AMD Radeon™ R7 260x with 2G… / Rec: NVIDIA® GeForce® GTX 1060 with 6GB VRAM, AMD Radeon™ RX… | Metal-capable GPU |
+| **DirectX** | Min: Version 11 / Rec: Version 12 | Version 11 |
+| **Storage** | 35 GB available space | 35 GB available space |
+| **Additional Notes** | *Xinput support Controllers recommended *Internet conne… | *Xinput support Controllers recommended *Internet conne… |
 
 ---
 
